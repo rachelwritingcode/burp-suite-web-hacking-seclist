@@ -1,4 +1,4 @@
-## Cyber Aegis Security List
+## Cyber Aegis Security List 🔒 📝 
 
 - This is a custom security list made for the [Cyber Aegis Canada](https://cyber-aegis.ca/) Web Hacking Workshop.
 - This security list demonstrates a brute force attack using Burp Suite's Intruder tool. 
